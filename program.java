@@ -1,1 +1,2 @@
 #import java
+define class
